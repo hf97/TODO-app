@@ -1,5 +1,6 @@
 import firebase from 'firebase'
 
+// API deprecated
 const firebaseApp = firebase.initializeApp({
   apiKey: "AIzaSyA6z70b_ymtgC-8QPuT2l_ZEp1fBw2rta0",
   authDomain: "todo-app-c1e66.firebaseapp.com",
