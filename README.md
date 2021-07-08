@@ -1,4 +1,4 @@
-## TODO app
+# TODO app
 
 ![Demo](https://github.com/hf97/TODO-app/blob/master/demo/demo.gif).
 
