@@ -1,6 +1,6 @@
 # TODO app
 
-![Demo](https://github.com/hf97/TODO-app/blob/master/demo/demo.gif).
+![Demo](https://github.com/hf97/TODO-app/blob/master/demo/demo.gif)
 
 <img src="https://github.com/hf97/TODO-app/blob/master/demo/index.png" width="600">
 
